@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\bin\Debug\tyxlj.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\bin\Debug\tyxlj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.main.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\bin\Debug\tyxlj.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\tyxlj\tyxlj\obj\x86\Debug\tyxlj.SetServer.resources
